@@ -1,0 +1,6 @@
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E2\G2E2\bin\Debug\G2E2.exe.config
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E2\G2E2\obj\Debug\G2E2.csprojResolveAssemblyReference.cache
+C:\Users\MauricioAlexander\Documents\Visual Studio 2015\Projects\G2E2\G2E2\bin\Debug\G2E2.exe
+C:\Users\MauricioAlexander\Documents\Visual Studio 2015\Projects\G2E2\G2E2\bin\Debug\G2E2.pdb
+C:\Users\MauricioAlexander\Documents\Visual Studio 2015\Projects\G2E2\G2E2\obj\Debug\G2E2.exe
+C:\Users\MauricioAlexander\Documents\Visual Studio 2015\Projects\G2E2\G2E2\obj\Debug\G2E2.pdb
