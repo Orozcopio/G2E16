@@ -14,6 +14,7 @@ namespace G2E2
             determine el monto a recibir en concepto de bonificación por un obrero en un dia. */
         static void Main(string[] args)
         {
+            /**/
             int cantidad;
             int b1=0, b2=0,bt=0;
             cantidad = int.Parse(Console.ReadLine());
@@ -25,6 +26,7 @@ namespace G2E2
             bt = b1 + b2;
             Console.WriteLine("Bonificacion total: " + bt);
             Console.ReadKey();
+            /**/
 
         }
     }
